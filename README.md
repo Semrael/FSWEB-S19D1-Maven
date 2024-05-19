@@ -26,7 +26,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * ```Fruit``` ve ```Vegetable``` sınıfları project lombok ve Jpa annotationlarını kullanmalıdır.
 
 ### Görev 2
- * dao paketi altına ```FruitRepository``` ve ```VegetableRepository``` interfacelerini oluşturmalısınız.
+ * dao paketi altına ```FruitRepository``` ve ```VegetableRepository``` int[ApiException.java](..%2F..%2FFSWEB-S19D4-Maven%2Fsrc%2Fmain%2Fjava%2Fcom%2Fworkintech%2Fs19d1%2Fexceptions%2FApiException.java)erfacelerini oluşturmalısınız.
  * Bu sınıflarda tüm crud işlemleri yapılabilmeli.
  * Bunların dışında hem FruitRepository için hem VegetableRepository için "ücrete göre azalan sırada" tüm fruit ve vegatables sıralayan bir method yazmalısınız.
  * Hem FruitRepository için hem VegetableRepository için "ücrete göre artan sırada" tüm fruit ve vegatables sıralayan bir method yazmalısınız.
